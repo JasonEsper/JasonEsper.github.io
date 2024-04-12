@@ -1,0 +1,47 @@
+<table style ="width:100%">
+	<caption>Table of Classes I'm Taking</caption>
+	<tr>
+		<th>Term</th>
+		<th>Class</th>
+	</tr>
+	<tr>
+		<td>Winter 2024</td>
+		<td>Intro to Database Systems</td>
+	</tr>
+	<tr>
+		<td>Winter 2024</td>
+		<td>HTML5 Programming</td>
+	</tr>
+	<tr>
+		<td>Winter 2024</td>
+		<td>Intro to Java Programming</td>
+	</tr>
+	<tr>
+		<td>Winter 2024</td>
+		<td>Composition I</td>
+	</tr>
+	<tr>
+		<td>Summer 2024</td>
+		<td>Networking Concepts</td>
+	</tr>
+	<tr>
+		<td>Summer 2024</td>
+		<td>JavaScript Program for Web</td>
+	</tr>
+	<tr>
+		<td>Summer 2024</td>
+		<td>Introduction to Informal Logic</td>
+	</tr>
+	<tr>
+		<td>Fall 2024</td>
+		<td>Software Engineering</td>
+	</tr>
+	<tr>
+		<td>Fall 2024</td>
+		<td>System Analysis & Design</td>
+	</tr>
+	<tr>
+		<td>Fall 2024</td>
+		<td>Interpersonal Communication</td>
+	</tr>
+</table>
